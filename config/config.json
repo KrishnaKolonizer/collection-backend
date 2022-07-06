@@ -1,0 +1,27 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "collectiontesting",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "timezone": "+05:30",
+    "logging":false
+  },
+  "test": {
+    "username": "kolonizer",
+    "password": "Kolonizer@123",
+    "database": "kolonizer",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "kolonizer",
+    "password": "Kolonizer@123",
+    "database": "kolonizer",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
+
+
